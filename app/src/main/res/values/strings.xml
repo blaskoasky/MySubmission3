@@ -1,0 +1,25 @@
+<resources>
+    <!--Appname-->
+    <string name="app_name">Sub3 - IriantoMauduta</string>
+
+    <!--users-->
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location: %s </string>
+    <string name="repository">Repository: %s </string>
+    <string name="company">Company: %s </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="favorite">Favorite</string>
+
+    <!--setting-->
+    <string name="setting">Setting</string>
+    <string name="change_notification_settings">Notification Settings</string>
+    <string name="add_favorite">"Added Favorite"</string>
+    <string name="delete_favorite">"Deleted Favorite"</string>
+    <string name="empty_favorite">Empty Data</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_message">Find a new Favourite User on Github!</string>
+</resources>
